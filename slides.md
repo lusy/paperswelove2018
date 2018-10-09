@@ -45,8 +45,8 @@ According to "Even good bots fight"
 
 According to Geiger and Halfaker
 
-* it's a culturally specific concept!
 * Conflict typology: task conflict - process conflict -relationship conflict
+* it's a culturally specific concept!
 
 ---
 
@@ -78,13 +78,6 @@ iterative mixed method combination of:
 
 ---
 
-### trace ethnography
-
-> "seek to understand data in the context it has within a community of practice,"
-> "data to be a starting point for further contextualization and interpretation,"
-
----
-
 What are the traces they looked at:
 
 - start with the revision ID of an identified bot-bot revert
@@ -93,11 +86,13 @@ What are the traces they looked at:
   - the bot developer’s summary of what the bot was doing at the time,
   - the other edits that both bots had made,
   - both bots’ Requests for Approval before the Bot Approvals Group (if any),
+
+---
+
   - the various talk pages where Wikipedians would raise and resolve the conflict (in cases of genuine conflict),
   - and the various policies and guidelines in force at the time of the revert.
 
 ---
-
 
 ## Dataset
 
@@ -185,6 +180,8 @@ Archiving links: AnomieBot vs CyberBot II.
 * only a very small amount of the bot-bot reverts are cases of genuine conflict
 * majority of reverts: cases of routine collaborative work between bots
 * do not tear data out of context! apply critical scrutiny to your whole process
+
+---
 
 > "There is inevitably something left behind or incompletely captured in any transcription or translation of an entity or event in the world."
 
