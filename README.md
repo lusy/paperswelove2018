@@ -1,6 +1,6 @@
-# paperswelove2018
+# Get cupcake: Create your own text adventure in python
 
-This repository contains a presentation of the paper "Operationalizing Conflict and Cooperation between Automated Software Agents in Wikipedia: A Replication and Expansion of “Even Good Bots Fight”" by R Stuart Geiger and Aaron Halfaker for Papers We Love Berlin in October 2018.
+This folder contains the slides for the course "Get cupcake: Create your own text adventure in python" taught at the meccanica feminale Baden-Würtemberg in February 2023.
 
 ## to view the presentation
 
